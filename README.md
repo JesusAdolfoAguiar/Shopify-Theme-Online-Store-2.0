@@ -12,3 +12,4 @@ This is a production ready custom Shopify storefront built using the Shopify's r
 
 ### Credits
 Big thank to Iskandar from workingwithshopify.com for providing the knowledge to develop this product.
+
